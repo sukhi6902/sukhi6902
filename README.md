@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/vibha_writes" target="blank"><img src="https://img.shields.io/twitter/follow/vibha_writes?logo=twitter&style=for-the-badge" alt="vibha_writes" /></a> </p>
 
-- 🔭 I’m currently working on [have experience](with few projects.)
+- 🔭 I’m currently working on **few projects related to OPENCV**
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **wide range of libraries.**
 
-- 👯 I’m looking to collaborate on [to build more connections](of like minded people)
+- 👯 I’m looking to collaborate on [ML/DATASCIENCE PROJECTS](https://github.com/sukhi6902/projects)
 
-- 🤝 I’m looking for help with [to be an amazing](partner to collab with.)
+- 🤝 I’m looking for help with **NLP/OPEN CV**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/vibha-vishwanatha-rao/](https://www.linkedin.com/in/vibha-vishwanatha-rao/)
 
@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **ML & DATA SCIENCE**
 
-- 📫 How to reach me **vibharao@gmail.com**
+- 📫 How to reach me **vibharao2002@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/vibha-vishwanatha-rao/](https://www.linkedin.com/in/vibha-vishwanatha-rao/)
 
