@@ -1,4 +1,4 @@
-<h1 align="center" Hi 👋, I'm Vibha Rao" , Thank you for viewing this.</h1>
+<h1 align="center">Hi 👋, I'm Vibha Rao</h1>
 <h3 align="center">A passionate ML/DATA SCIENCE ENTHUSIAST FROM INDIA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sukhi6902&label=Profile%20views&color=0e75b6&style=flat" alt="sukhi6902" /> </p>
